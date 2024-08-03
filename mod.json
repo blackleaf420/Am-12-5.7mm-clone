@@ -1,0 +1,8 @@
+{
+  "name": "5.7ak12",
+  "author": "YourName",
+  "version": "1.0.0",
+  "main": "src/mod.js",
+  "description": "A mod to clone the AK-12 and its magazines.",
+  "license": "MIT"
+}
